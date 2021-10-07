@@ -1,5 +1,5 @@
 # To-Do
-A Reminder APP for To-Do List
+A Reminder APP about To-Do List
 
 
 # Uncomment the next line to define a global platform for your project
