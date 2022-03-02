@@ -7,8 +7,7 @@ The display video link:https://www.dropbox.com/s/kcnfvrbj0gt2gkj/Swift%3AFirebas
 # platform :ios, '9.0'
 
 target 'ToDo' do
-  # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
+
 
   # Pods for ToDo
 pod 'Firebase/Auth'
