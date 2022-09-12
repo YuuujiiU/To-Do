@@ -1,4 +1,4 @@
-# To-Do
+# To-Do iOS Application
 A Reminder APP about To-Do List
 
 The demo address : https://www.dropbox.com/s/kcnfvrbj0gt2gkj/Swift%3AFirebase%3AXcode%3ATo_do_List_App.mov?dl=0
